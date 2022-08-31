@@ -1,2 +1,1 @@
-# hw27.8
-homework
+https://naserparvez.github.io/hw27.8/
